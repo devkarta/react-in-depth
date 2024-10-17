@@ -12,7 +12,8 @@
   "author": "",
   "license": "ISC",
   "workspaces": [
-    "ch02/dark-mode"
+    "ch02/dark-mode",
+    "ch02/dark-mode-dedicated"
   ],
   "devDependencies": {
     "fs-extra": "^11.2.0",
