@@ -18,7 +18,10 @@
     "ch02/dark-mode-typed",
     "ch02/radio-simple",
     "ch02/radio-complex",
-    "ch02/radio-composite"
+    "ch02/radio-composite",
+    "ch02/radio-summary",
+    "ch02/task-summary",
+    "ch02/user-summary"
   ],
   "devDependencies": {
     "fs-extra": "^11.2.0",
