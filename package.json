@@ -11,6 +11,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "workspaces": [
+    "ch02/dark-mode"
+  ],
   "devDependencies": {
     "fs-extra": "^11.2.0",
     "yargs": "^17.7.2"
