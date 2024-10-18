@@ -21,7 +21,8 @@
     "ch02/radio-composite",
     "ch02/radio-summary",
     "ch02/task-summary",
-    "ch02/user-summary"
+    "ch02/user-summary",
+     "ch03/rerender"
   ],
   "devDependencies": {
     "fs-extra": "^11.2.0",
