@@ -22,7 +22,8 @@
     "ch02/radio-summary",
     "ch02/task-summary",
     "ch02/user-summary",
-     "ch03/rerender"
+    "ch03/rerender",
+    "ch03/strict-mode"
   ],
   "devDependencies": {
     "fs-extra": "^11.2.0",
