@@ -23,7 +23,8 @@
     "ch02/task-summary",
     "ch02/user-summary",
     "ch03/rerender",
-    "ch03/strict-mode"
+    "ch03/strict-mode",
+    "ch03/todo-simple"
   ],
   "devDependencies": {
     "fs-extra": "^11.2.0",
